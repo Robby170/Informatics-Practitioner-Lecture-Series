@@ -1,0 +1,278 @@
+resi_id,kota_asal,jarak_km,berat_kg,layanan,cuaca,jam_kirim,telat,id_anonim,prob_telat,rekomendasi
+RSI102949,Jakarta,1610.0,7.73,Reguler,Badai,18,1,8d0de9b7,0.9455084696654322,Tunda/alihkan rute & kabari penerima
+RSI102466,Medan,706.7,7.13,Reguler,Badai,18,1,41088fde,0.9407528432828834,Tunda/alihkan rute & kabari penerima
+RSI102738,Padang,1553.1,1.76,Reguler,Badai,18,1,acdfc3b4,0.9360567218713117,Tunda/alihkan rute & kabari penerima
+RSI101190,Bengkulu,676.6,1.92,Reguler,Badai,20,1,082bd947,0.926631708252495,Tunda/alihkan rute & kabari penerima
+RSI100472,Medan,927.0,6.58,Kargo,Badai,16,1,db6b86b7,0.9144253531801376,Tunda/alihkan rute & kabari penerima
+RSI100770,Bengkulu,555.1,2.9,Reguler,Badai,18,1,d43321b4,0.9141644661379005,Tunda/alihkan rute & kabari penerima
+RSI100661,Lampung,652.9,2.1,Reguler,Badai,18,1,8e087551,0.9114518038042845,Tunda/alihkan rute & kabari penerima
+RSI100302,Jambi,572.7,4.08,Reguler,Badai,21,1,54fd33c8,0.9100649071418022,Tunda/alihkan rute & kabari penerima
+RSI102462,Lampung,540.3,1.15,Reguler,Badai,21,1,e7c901ba,0.9017355093337229,Tunda/alihkan rute & kabari penerima
+RSI101830,Palembang,579.5,5.02,Reguler,Badai,16,0,5ba01646,0.880614336301676,Tunda/alihkan rute & kabari penerima
+RSI102691,Jakarta,694.9,5.05,Kargo,Badai,17,1,d3cdb9da,0.8768175145126729,Tunda/alihkan rute & kabari penerima
+RSI100406,Jakarta,1343.9,3.8,Reguler,Badai,13,1,9b382fc7,0.8738292225352766,Tunda/alihkan rute & kabari penerima
+RSI101192,Bengkulu,672.7,6.81,Kargo,Hujan,18,1,7c3ddee5,0.873552913778653,Jadwalkan ulang ke batch pagi
+RSI102431,Padang,603.4,1.15,Reguler,Badai,15,1,4b5afe1b,0.8676711997438272,Tunda/alihkan rute & kabari penerima
+RSI100859,Palembang,543.6,2.27,Reguler,Badai,10,0,b2763607,0.8661065068262773,Tunda/alihkan rute & kabari penerima
+RSI101781,Jambi,914.5,6.86,Reguler,Hujan,21,1,6cfaa3e1,0.8594668451210152,Tawarkan upgrade ke Express
+RSI102190,Padang,895.2,4.98,Reguler,Hujan,21,1,ddb58890,0.8533771757304143,Tawarkan upgrade ke Express
+RSI102606,Medan,532.2,1.45,Reguler,Badai,13,0,aec90424,0.8525860157523336,Tunda/alihkan rute & kabari penerima
+RSI101809,Jambi,944.3,4.31,Reguler,Hujan,21,1,26c5f2fb,0.8513901147172335,Tawarkan upgrade ke Express
+RSI100733,Palembang,1052.6,4.31,Reguler,Badai,10,1,10945de5,0.8493254780337679,Tunda/alihkan rute & kabari penerima
+RSI100172,Bengkulu,1062.9,3.89,Kargo,Badai,11,1,e4751570,0.8486890482589869,Tunda/alihkan rute & kabari penerima
+RSI102551,Bengkulu,484.9,5.57,Reguler,Badai,16,1,328af02f,0.8468433442405349,Tunda/alihkan rute & kabari penerima
+RSI101007,Padang,781.0,4.45,Reguler,Hujan,20,1,1e1e78c2,0.8465249342647168,Tawarkan upgrade ke Express
+RSI102625,Lampung,1108.8,3.86,Reguler,Cerah,19,1,ea02fa59,0.8462358736159866,Tawarkan upgrade ke Express
+RSI100160,Lampung,894.0,2.77,Reguler,Hujan,19,1,f2bcfe3f,0.845960456097917,Tawarkan upgrade ke Express
+RSI100200,Jambi,462.6,6.18,Reguler,Badai,16,1,b3c85546,0.845880362939466,Tunda/alihkan rute & kabari penerima
+RSI102919,Palembang,479.9,7.09,Reguler,Hujan,18,1,cb70a9a1,0.8411001780916998,Jadwalkan ulang ke batch pagi
+RSI100577,Bengkulu,594.8,2.13,Kargo,Badai,9,1,8aaecfd2,0.8409371493705521,Tunda/alihkan rute & kabari penerima
+RSI102365,Padang,405.2,1.51,Kargo,Badai,20,1,87ff803f,0.840936448476577,Tunda/alihkan rute & kabari penerima
+RSI100640,Palembang,680.0,3.66,Reguler,Badai,12,1,1b9b84b4,0.8378772411562331,Tunda/alihkan rute & kabari penerima
+RSI100686,Lampung,915.1,4.56,Reguler,Badai,10,1,06c5596d,0.8354872595010004,Tunda/alihkan rute & kabari penerima
+RSI102829,Padang,1145.4,3.0,Reguler,Cerah,20,0,657f0fbc,0.8342413077938182,Tawarkan upgrade ke Express
+RSI102685,Padang,1224.1,2.8,Reguler,Cerah,19,1,dec38b67,0.8329464400084412,Tawarkan upgrade ke Express
+RSI101540,Jambi,460.9,1.43,Reguler,Badai,13,1,b58e5924,0.8318583588187524,Tunda/alihkan rute & kabari penerima
+RSI101022,Lampung,791.6,2.39,Kargo,Hujan,20,1,7f80e677,0.8264447579219352,Jadwalkan ulang ke batch pagi
+RSI101122,Medan,1030.5,2.51,Reguler,Hujan,21,1,e09912ad,0.8198557354851527,Tawarkan upgrade ke Express
+RSI100631,Bengkulu,599.1,2.85,Kargo,Badai,12,1,4c33100e,0.8197284338744802,Tunda/alihkan rute & kabari penerima
+RSI102587,Bengkulu,1309.0,3.68,Reguler,Cerah,21,0,9e0433da,0.8191858731733646,Tawarkan upgrade ke Express
+RSI101894,Palembang,708.2,4.71,Reguler,Hujan,21,1,80913b34,0.8190910704752236,Tawarkan upgrade ke Express
+RSI102550,Palembang,571.5,2.99,Reguler,Hujan,19,1,2cfeaf56,0.8168734303001659,Jadwalkan ulang ke batch pagi
+RSI101819,Medan,582.1,4.79,Reguler,Hujan,20,1,90b36276,0.8151256004246912,Jadwalkan ulang ke batch pagi
+RSI102890,Jambi,675.7,2.89,Reguler,Hujan,19,1,704d9b87,0.8122186067156992,Jadwalkan ulang ke batch pagi
+RSI100407,Palembang,511.5,2.08,Reguler,Hujan,18,1,ac9d9d14,0.811663644692272,Jadwalkan ulang ke batch pagi
+RSI101033,Jambi,354.9,4.4,Kargo,Hujan,19,1,a987b6f2,0.8095382705130292,Jadwalkan ulang ke batch pagi
+RSI101421,Jambi,817.5,2.46,Reguler,Badai,7,1,2bf1ebed,0.8095323539507925,Tunda/alihkan rute & kabari penerima
+RSI100013,Palembang,662.7,2.82,Reguler,Hujan,19,1,c7c65e68,0.8091633644243525,Jadwalkan ulang ke batch pagi
+RSI101857,Jakarta,156.4,4.3,Reguler,Badai,21,1,746f3aea,0.807839098354829,Tunda/alihkan rute & kabari penerima
+RSI100751,Jambi,441.3,3.32,Kargo,Hujan,21,1,1f803199,0.8071101260826014,Jadwalkan ulang ke batch pagi
+RSI102835,Medan,643.3,2.5149999999999997,Reguler,Hujan,18,0,9c249768,0.8047137807948833,Jadwalkan ulang ke batch pagi
+RSI100821,Bengkulu,405.5,3.19,Reguler,Badai,19,1,fbe6cd4b,0.8016421344313079,Tunda/alihkan rute & kabari penerima
+RSI101560,Medan,530.0,3.28,Reguler,Badai,9,0,5d9dbfeb,0.7991471693336649,Tunda/alihkan rute & kabari penerima
+RSI101579,Lampung,1128.4,3.61,Reguler,Cerah,18,1,73007af6,0.7976655763915761,Tawarkan upgrade ke Express
+RSI101333,Palembang,409.3,6.99,Reguler,Hujan,18,1,760904e4,0.796853971208488,Jadwalkan ulang ke batch pagi
+RSI101853,Jakarta,551.6,2.19,Reguler,Hujan,20,1,953a9f6d,0.7967009544013007,Jadwalkan ulang ke batch pagi
+RSI101339,Palembang,637.4,3.63,Reguler,Hujan,21,1,e688742f,0.7954351925502853,Jadwalkan ulang ke batch pagi
+RSI101576,Medan,966.2,5.32,Reguler,Cerah,18,1,9c2a6d08,0.7938656550022543,Tawarkan upgrade ke Express
+RSI100182,Jakarta,541.4,5.92,Reguler,Hujan,21,1,2763cbd5,0.7926078360792144,Jadwalkan ulang ke batch pagi
+RSI100187,Padang,502.3,1.68,Reguler,Hujan,18,1,e54dee69,0.7904020602920633,Jadwalkan ulang ke batch pagi
+RSI101448,Jambi,662.5,2.73,Reguler,Hujan,21,1,88a1dc06,0.7901456230129545,Jadwalkan ulang ke batch pagi
+RSI100753,Padang,573.0,5.61,Reguler,Hujan,21,1,41160810,0.7901169950071818,Jadwalkan ulang ke batch pagi
+RSI101004,Padang,533.1,3.17,Reguler,Badai,12,1,dd3ccad4,0.7880346497029552,Tunda/alihkan rute & kabari penerima
+RSI102553,Lampung,1147.2,2.13,Reguler,Cerah,20,1,94576078,0.7835163936462216,Tawarkan upgrade ke Express
+RSI101582,Lampung,441.8,2.1,Reguler,Hujan,20,1,10d1da2c,0.7833404496062577,Jadwalkan ulang ke batch pagi
+RSI100367,Medan,485.1,3.38,Reguler,Badai,12,1,83184baf,0.7809648633875395,Tunda/alihkan rute & kabari penerima
+RSI102152,Bengkulu,635.4,3.18,Kargo,Badai,13,1,78fab2a0,0.7805826537852911,Tunda/alihkan rute & kabari penerima
+RSI102669,Jambi,724.1,1.34,Reguler,Hujan,18,1,24caca17,0.7751370421464014,Tawarkan upgrade ke Express
+RSI101455,Bengkulu,563.2,1.62,Reguler,Hujan,20,1,e819fc11,0.7743813304379131,Jadwalkan ulang ke batch pagi
+RSI100550,Medan,368.0,2.33,Reguler,Badai,18,1,f31d7615,0.7706770108503791,Tunda/alihkan rute & kabari penerima
+RSI102320,Medan,461.9,1.24,Kargo,Badai,11,1,3b644ae7,0.7701853026473858,Tunda/alihkan rute & kabari penerima
+RSI102776,Medan,577.2,7.92,Reguler,Cerah,18,1,07fe2e5d,0.7672982436119199,Jadwalkan ulang ke batch pagi
+RSI102028,Palembang,624.3,7.05,Reguler,Cerah,18,0,8e170e5d,0.7616749849155504,Jadwalkan ulang ke batch pagi
+RSI101520,Jakarta,783.8,1.0,Kargo,Hujan,19,1,ed69e89b,0.7616393137021117,Jadwalkan ulang ke batch pagi
+RSI101522,Palembang,1001.1,5.34,Reguler,Hujan,14,0,596ceb8e,0.7608496059199641,Tawarkan upgrade ke Express
+RSI100943,Bengkulu,487.4,0.78,Reguler,Hujan,21,1,d5786908,0.7578487189850458,Jadwalkan ulang ke batch pagi
+RSI101984,Jakarta,575.9,0.72,Reguler,Hujan,19,1,6f9080f9,0.7576948628330694,Jadwalkan ulang ke batch pagi
+RSI102966,Lampung,524.4,0.92,Reguler,Hujan,18,1,450d8526,0.7562753428255752,Jadwalkan ulang ke batch pagi
+RSI102188,Jakarta,629.0,0.84,Reguler,Hujan,19,1,d8fdb58b,0.7553289591068599,Jadwalkan ulang ke batch pagi
+RSI102934,Bengkulu,771.6,4.14,Reguler,Cerah,18,1,516d7b68,0.7546982672548204,Tawarkan upgrade ke Express
+RSI102046,Jambi,958.8,2.39,Reguler,Cerah,18,0,260c3a14,0.7509151111190825,Tawarkan upgrade ke Express
+RSI101750,Jambi,264.0,1.42,Kargo,Badai,15,1,1009b21b,0.750745856810294,Tunda/alihkan rute & kabari penerima
+RSI102840,Jambi,547.1,6.87,Reguler,Cerah,18,1,83632f6c,0.7505000111336078,Jadwalkan ulang ke batch pagi
+RSI102011,Palembang,1106.8,5.57,Reguler,Hujan,11,0,2f0c3c52,0.7495842356543332,Tawarkan upgrade ke Express
+RSI102832,Lampung,665.9,0.86,Reguler,Hujan,19,1,a8d00bf2,0.7473962620017537,Jadwalkan ulang ke batch pagi
+RSI101773,Bengkulu,760.0,4.39,Reguler,Cerah,19,0,81b7fa2e,0.74552480483531,Tawarkan upgrade ke Express
+RSI102794,Bengkulu,172.8,1.1,Reguler,Hujan,20,0,bf3d75f8,0.7440310589669349,Jadwalkan ulang ke batch pagi
+RSI102544,Medan,416.3,1.32,Reguler,Hujan,20,1,3e43dba8,0.7407314224670722,Jadwalkan ulang ke batch pagi
+RSI102541,Medan,789.0,3.89,Reguler,Hujan,15,1,675fc1cc,0.7405935876780606,Tawarkan upgrade ke Express
+RSI102862,Lampung,275.9,1.29,Reguler,Hujan,20,1,99eca831,0.7351957914289673,Jadwalkan ulang ke batch pagi
+RSI100555,Bengkulu,1565.9,1.29,Reguler,Hujan,14,1,311e5207,0.7328489524006833,Tawarkan upgrade ke Express
+RSI100494,Lampung,984.4,0.35,Kargo,Hujan,12,1,c8d22b6f,0.7320180099365605,Prioritaskan di sortir (pantau manual)
+RSI101654,Padang,1006.3,4.05,Reguler,Hujan,9,1,9862b9a3,0.7308687386715964,Tawarkan upgrade ke Express
+RSI102278,Padang,901.8,1.64,Reguler,Cerah,19,0,218714b8,0.728835226271901,Tawarkan upgrade ke Express
+RSI102346,Lampung,902.1,2.12,Kargo,Hujan,10,1,43143a45,0.728788097042015,Prioritaskan di sortir (pantau manual)
+RSI101121,Padang,505.6,0.22,Reguler,Hujan,21,1,3197b397,0.7287386377677453,Jadwalkan ulang ke batch pagi
+RSI102272,Jambi,692.8,4.11,Kargo,Cerah,20,1,7d0e296d,0.7285371241495906,Jadwalkan ulang ke batch pagi
+RSI101043,Medan,562.2,6.5,Reguler,Hujan,14,1,08899d76,0.7280774382211316,Prioritaskan di sortir (pantau manual)
+RSI101414,Palembang,595.1,6.36,Reguler,Cerah,20,1,500343a0,0.7275365045421399,Jadwalkan ulang ke batch pagi
+RSI101794,Palembang,258.5,2.43,Reguler,Badai,15,1,1f4c9be8,0.7264519840846387,Tunda/alihkan rute & kabari penerima
+RSI102210,Jambi,943.0,3.61,Reguler,Hujan,17,1,8545588e,0.7263246804179534,Tawarkan upgrade ke Express
+RSI101141,Palembang,913.5,2.16,Reguler,Cerah,18,1,c744d004,0.7262973636605509,Tawarkan upgrade ke Express
+RSI102169,Medan,1744.5,1.84,Reguler,Hujan,12,1,37d882c8,0.725229849948184,Tawarkan upgrade ke Express
+RSI101523,Lampung,1014.3,1.1,Kargo,Hujan,15,0,8d3b2da7,0.7232315667178333,Prioritaskan di sortir (pantau manual)
+RSI101727,Jakarta,350.2,3.06,Reguler,Hujan,19,1,9ae8b135,0.723120404965562,Jadwalkan ulang ke batch pagi
+RSI102033,Padang,321.8,2.18,Reguler,Hujan,20,0,8888585f,0.7223959209320923,Jadwalkan ulang ke batch pagi
+RSI101848,Jakarta,426.8,0.69,Reguler,Hujan,21,1,d3f7df69,0.7208424094293064,Jadwalkan ulang ke batch pagi
+RSI101108,Jambi,336.3,1.85,Kargo,Hujan,18,0,ba5e95e0,0.7194581333053769,Jadwalkan ulang ke batch pagi
+RSI100065,Lampung,616.8,2.98,Kargo,Hujan,15,1,27e7b6bd,0.7193217675493446,Prioritaskan di sortir (pantau manual)
+RSI101070,Padang,651.5,5.92,Reguler,Hujan,9,1,1ca3adff,0.7177534792340423,Prioritaskan di sortir (pantau manual)
+RSI101755,Medan,1030.1,3.82,Reguler,Hujan,9,1,46cadc52,0.7164808995880773,Tawarkan upgrade ke Express
+RSI100340,Lampung,212.8,2.17,Reguler,Badai,16,1,6d4382e4,0.7157747775456815,Tunda/alihkan rute & kabari penerima
+RSI102023,Jambi,660.4,4.09,Kargo,Cerah,21,1,4d3e4772,0.7149054959229049,Jadwalkan ulang ke batch pagi
+RSI102900,Jakarta,172.7,0.66,Reguler,Hujan,21,1,2b923d2f,0.7142080976905583,Jadwalkan ulang ke batch pagi
+RSI101747,Lampung,678.1,4.76,Reguler,Cerah,19,1,c5c604e8,0.7138320581494016,Jadwalkan ulang ke batch pagi
+RSI100457,Lampung,357.1,1.1,Reguler,Hujan,20,0,cf238419,0.7122379661088749,Jadwalkan ulang ke batch pagi
+RSI101359,Jambi,156.3,3.08,Reguler,Hujan,21,1,6cd765ce,0.712157254774764,Jadwalkan ulang ke batch pagi
+RSI102545,Padang,1338.6,3.18,Reguler,Hujan,14,1,e40c0580,0.7117328018095292,Tawarkan upgrade ke Express
+RSI101293,Jakarta,312.4,1.45,Reguler,Hujan,20,0,d2d6a7ac,0.7099628946832336,Jadwalkan ulang ke batch pagi
+RSI101637,Palembang,676.1,5.3,Reguler,Cerah,19,1,8a20b479,0.7093886021817707,Jadwalkan ulang ke batch pagi
+RSI102207,Jakarta,686.9,4.56,Reguler,Hujan,9,1,6c936849,0.708462990515141,Prioritaskan di sortir (pantau manual)
+RSI102353,Padang,605.3,7.39,Reguler,Cerah,21,1,b1bb2b30,0.707332302910926,Jadwalkan ulang ke batch pagi
+RSI102612,Jakarta,1122.7,1.72,Kargo,Hujan,9,0,58e96566,0.7068024792799386,Prioritaskan di sortir (pantau manual)
+RSI100716,Lampung,340.0,2.03,Reguler,Hujan,21,0,0f0cc301,0.7059561971268623,Jadwalkan ulang ke batch pagi
+RSI100736,Padang,1622.4,0.85,Reguler,Hujan,15,1,55ecbfe9,0.7057134201483513,Tawarkan upgrade ke Express
+RSI101736,Bengkulu,596.3,8.36,Kargo,Cerah,7,1,1669f522,0.7052054867402116,Prioritaskan di sortir (pantau manual)
+RSI100050,Bengkulu,1300.0,4.25,Reguler,Cerah,12,1,77bf79fa,0.7036360035213505,Tawarkan upgrade ke Express
+RSI101936,Jakarta,984.6,1.75,Reguler,Hujan,14,0,d948edda,0.7024466178006439,Tawarkan upgrade ke Express
+RSI101227,Jakarta,255.7,7.12,Reguler,Hujan,20,0,59eb518e,0.7023023372540298,Jadwalkan ulang ke batch pagi
+RSI100042,Jambi,829.5,2.19,Reguler,Hujan,14,1,68d11e30,0.7022495439736134,Tawarkan upgrade ke Express
+RSI101595,Padang,280.7,2.25,Reguler,Badai,11,1,c4569164,0.7016827698189526,Tunda/alihkan rute & kabari penerima
+RSI102304,Medan,906.2,2.69,Reguler,Hujan,13,0,a87c3724,0.6999175584912287,Tawarkan upgrade ke Express
+RSI101785,Jakarta,1357.1,4.16,Reguler,Cerah,11,1,0c493998,0.6996366783018866,Tawarkan upgrade ke Express
+RSI102331,Lampung,275.6,0.74,Kargo,Hujan,18,0,7f2d45f9,0.6992146783866425,Jadwalkan ulang ke batch pagi
+RSI102140,Bengkulu,282.4,4.66,Reguler,Badai,15,0,80b37297,0.6985605345056133,Tunda/alihkan rute & kabari penerima
+RSI100894,Jambi,1046.8,1.71,Kargo,Hujan,8,1,133b91b8,0.6981330952448062,Prioritaskan di sortir (pantau manual)
+RSI102797,Jambi,709.1,4.37,Reguler,Cerah,18,0,7971d0e3,0.6976543488457501,Tawarkan upgrade ke Express
+RSI102216,Jambi,1013.1,0.31,Reguler,Cerah,19,1,123976ff,0.6972342149006865,Tawarkan upgrade ke Express
+RSI101791,Palembang,444.7,6.6,Reguler,Hujan,16,1,e6ce89e3,0.6966125737349822,Prioritaskan di sortir (pantau manual)
+RSI102779,Bengkulu,921.5,1.97,Reguler,Cerah,21,1,203962ae,0.6963575420277536,Tawarkan upgrade ke Express
+RSI102819,Bengkulu,586.0,5.52,Reguler,Hujan,12,0,e765b81c,0.696014725223602,Prioritaskan di sortir (pantau manual)
+RSI102560,Palembang,1317.9,3.41,Reguler,Cerah,15,0,3c470173,0.6959266725078922,Tawarkan upgrade ke Express
+RSI102717,Jambi,811.0,2.29,Reguler,Hujan,11,1,433afbc5,0.695736378148887,Tawarkan upgrade ke Express
+RSI100139,Lampung,1327.9,3.1,Reguler,Cerah,11,1,b79ae0c7,0.6950126210339395,Tawarkan upgrade ke Express
+RSI101902,Bengkulu,831.5,3.29,Kargo,Hujan,7,1,c34365b5,0.6923371004206463,Prioritaskan di sortir (pantau manual)
+RSI102824,Jambi,889.2,2.3,Reguler,Hujan,14,1,35bf5713,0.6919139196730518,Tawarkan upgrade ke Express
+RSI100253,Medan,309.0,3.53,Reguler,Hujan,20,0,22f05f83,0.6908206576386522,Jadwalkan ulang ke batch pagi
+RSI101762,Medan,720.1,4.09,Reguler,Cerah,19,1,140f5fe1,0.6906798847364746,Tawarkan upgrade ke Express
+RSI100802,Lampung,350.9,9.47,Reguler,Cerah,9,0,02d940f2,0.690375014787624,Prioritaskan di sortir (pantau manual)
+RSI102498,Bengkulu,224.7,0.29,Kargo,Hujan,20,1,9b2a16b7,0.6902370306592672,Jadwalkan ulang ke batch pagi
+RSI100255,Palembang,1411.5,2.01,Express,Cerah,19,1,0ab02b4e,0.6901200122499176,Jadwalkan ulang ke batch pagi
+RSI101928,Palembang,829.0,2.5149999999999997,Reguler,Hujan,16,0,3dac1a5b,0.6898180310394529,Tawarkan upgrade ke Express
+RSI102292,Medan,349.4,0.98,Reguler,Hujan,21,1,1c74ef48,0.6895028543725548,Jadwalkan ulang ke batch pagi
+RSI102376,Jakarta,522.2,4.77,Reguler,Hujan,13,0,2ea10be4,0.6884995639115004,Prioritaskan di sortir (pantau manual)
+RSI101151,Padang,400.9,8.53,Reguler,Cerah,7,0,6634621c,0.6884671893515507,Prioritaskan di sortir (pantau manual)
+RSI100582,Medan,221.7,4.15,Kargo,Badai,13,1,004e8ec7,0.6884250502346733,Tunda/alihkan rute & kabari penerima
+RSI102956,Medan,288.1,7.7,Reguler,Hujan,19,1,899680b2,0.687848947073611,Jadwalkan ulang ke batch pagi
+RSI101951,Bengkulu,1215.2,2.22,Reguler,Hujan,9,1,62c84ed1,0.6865263771263382,Tawarkan upgrade ke Express
+RSI101310,Palembang,611.1,1.1,Kargo,Hujan,13,1,6031f443,0.6859342096635153,Prioritaskan di sortir (pantau manual)
+RSI102555,Jambi,570.2,0.75,Kargo,Hujan,17,0,627937b9,0.6853252704541604,Prioritaskan di sortir (pantau manual)
+RSI100729,Lampung,502.7,4.57,Reguler,Hujan,15,1,3a7e2138,0.6843976291824201,Prioritaskan di sortir (pantau manual)
+RSI100573,Palembang,205.8,3.19,Kargo,Badai,10,1,a4aae79a,0.6839516145997402,Tunda/alihkan rute & kabari penerima
+RSI102698,Jakarta,568.2,7.55,Reguler,Cerah,10,1,3e2fd73a,0.6829063626186066,Prioritaskan di sortir (pantau manual)
+RSI102967,Palembang,912.1,1.52,Reguler,Hujan,15,1,405b1a15,0.6827754879681482,Tawarkan upgrade ke Express
+RSI100809,Lampung,305.4,2.43,Reguler,Badai,10,1,43a9783f,0.6820700989223024,Tunda/alihkan rute & kabari penerima
+RSI101599,Bengkulu,255.3,4.05,Reguler,Badai,9,1,f19cc85a,0.6820668967782969,Tunda/alihkan rute & kabari penerima
+RSI100128,Bengkulu,1346.9,2.68,Reguler,Cerah,11,1,77ca3904,0.6815281330660862,Tawarkan upgrade ke Express
+RSI102010,Jambi,144.6,0.97,Reguler,Badai,17,0,14783620,0.6806462035312247,Tunda/alihkan rute & kabari penerima
+RSI100738,Jakarta,1029.9,2.84,Reguler,Hujan,10,1,ff7b8e4e,0.6798001015692295,Tawarkan upgrade ke Express
+RSI102258,Lampung,1146.0,3.99,Reguler,Cerah,16,0,36d08b1d,0.6795646249377563,Tawarkan upgrade ke Express
+RSI100070,Bengkulu,497.6,4.73,Reguler,Hujan,12,1,95f3fd08,0.6793515267661138,Prioritaskan di sortir (pantau manual)
+RSI102389,Medan,607.7,1.07,Kargo,Hujan,11,1,fa51f1e9,0.676677555612764,Prioritaskan di sortir (pantau manual)
+RSI100019,Palembang,564.9,4.6,Reguler,Hujan,8,1,7ba07e67,0.6761051775692901,Prioritaskan di sortir (pantau manual)
+RSI102170,Jambi,689.6,7.14,Reguler,Cerah,10,0,0f85a173,0.6760785867492135,Prioritaskan di sortir (pantau manual)
+RSI102345,Palembang,490.5,3.06,Kargo,Hujan,11,1,c9bc2a6a,0.6742027258395551,Prioritaskan di sortir (pantau manual)
+RSI100168,Lampung,361.8,0.81,Reguler,Badai,10,1,faccea93,0.6730289032808855,Tunda/alihkan rute & kabari penerima
+RSI101444,Jakarta,724.8,1.0,Kargo,Hujan,11,1,fc15c470,0.671403046844143,Prioritaskan di sortir (pantau manual)
+RSI101798,Bengkulu,471.5,6.42,Reguler,Cerah,9,1,0dd98702,0.6713541187077438,Prioritaskan di sortir (pantau manual)
+RSI102875,Palembang,2811.5,2.16,Reguler,Hujan,7,1,387ee93e,0.6713090261636552,Tawarkan upgrade ke Express
+RSI101812,Jambi,805.1,1.59,Reguler,Hujan,16,0,688eac4d,0.6704303125996097,Tawarkan upgrade ke Express
+RSI101934,Jambi,817.1,2.03,Reguler,Hujan,7,1,808ea75b,0.6704141748720217,Tawarkan upgrade ke Express
+RSI102659,Medan,246.6,8.06,Kargo,Cerah,18,1,c5a0c9ff,0.6699997283042424,Jadwalkan ulang ke batch pagi
+RSI101800,Jambi,766.2,0.81,Reguler,Cerah,20,1,a93a548a,0.6685313232270487,Tawarkan upgrade ke Express
+RSI102668,Lampung,475.0,3.98,Reguler,Hujan,13,0,f89e620c,0.6678931704072488,Prioritaskan di sortir (pantau manual)
+RSI102767,Jakarta,856.8,5.28,Kargo,Cerah,8,1,d103d1ab,0.6676503299596545,Prioritaskan di sortir (pantau manual)
+RSI100808,Bengkulu,982.0,7.0,Express,Hujan,21,0,4570957d,0.6674444630677495,Jadwalkan ulang ke batch pagi
+RSI100451,Palembang,454.5,6.32,Reguler,Cerah,9,1,efa46cb3,0.6667121486823377,Prioritaskan di sortir (pantau manual)
+RSI101548,Palembang,951.8,0.87,Reguler,Hujan,14,0,4cb4dc6a,0.666313853331084,Tawarkan upgrade ke Express
+RSI102837,Jakarta,522.0,5.14,Kargo,Hujan,7,0,08a3ad10,0.6649996869538147,Prioritaskan di sortir (pantau manual)
+RSI101435,Bengkulu,668.9,6.59,Reguler,Cerah,10,1,3d64bceb,0.6644775826466442,Prioritaskan di sortir (pantau manual)
+RSI100279,Padang,1291.4,2.68,Kargo,Cerah,16,1,5067d553,0.6638910407887592,Prioritaskan di sortir (pantau manual)
+RSI102592,Lampung,1694.8,7.21,Express,Cerah,12,1,4cdb2f12,0.6636355489904598,Prioritaskan di sortir (pantau manual)
+RSI100452,Lampung,1282.1,1.91,Reguler,Cerah,13,0,5e9b61b9,0.6631099142868415,Tawarkan upgrade ke Express
+RSI101144,Padang,482.9,4.22,Kargo,Hujan,8,1,38890be7,0.660993001191479,Prioritaskan di sortir (pantau manual)
+RSI101805,Palembang,1265.0,2.5149999999999997,Reguler,Cerah,10,1,7873a9c5,0.6603167824160853,Tawarkan upgrade ke Express
+RSI102607,Jambi,641.9,2.29,Reguler,Hujan,15,0,0cb20a57,0.6563174888714771,Prioritaskan di sortir (pantau manual)
+RSI100239,Jambi,995.2,5.61,Reguler,Cerah,12,1,7a585f6d,0.6562549739710545,Tawarkan upgrade ke Express
+RSI101692,Lampung,601.1,3.76,Reguler,Hujan,7,1,396a78f7,0.6561417422766662,Prioritaskan di sortir (pantau manual)
+RSI102109,Lampung,590.1,1.66,Reguler,Hujan,14,0,150ed86c,0.6557156327722053,Prioritaskan di sortir (pantau manual)
+RSI100801,Jambi,506.9,3.03,Kargo,Hujan,9,0,407567b3,0.6556983429052318,Prioritaskan di sortir (pantau manual)
+RSI102217,Jambi,1007.2,0.97,Reguler,Hujan,11,0,858680cb,0.6550871829180109,Tawarkan upgrade ke Express
+RSI100193,Jambi,1252.7,1.8,Reguler,Cerah,11,1,7b3b51b1,0.6539254217732511,Tawarkan upgrade ke Express
+RSI102895,Lampung,487.8,6.2,Reguler,Cerah,21,1,d9b3181e,0.6535249682748114,Jadwalkan ulang ke batch pagi
+RSI102128,Jakarta,742.6,0.69,Reguler,Hujan,15,1,2a1b35e1,0.6516525629665502,Tawarkan upgrade ke Express
+RSI102988,Jakarta,1828.6,1.2,Reguler,Cerah,13,1,4f4b5794,0.6510361671932278,Tawarkan upgrade ke Express
+RSI101999,Padang,456.4,5.7,Reguler,Cerah,18,1,1ad916e6,0.6509370256866707,Jadwalkan ulang ke batch pagi
+RSI102600,Jakarta,631.9,1.27,Reguler,Hujan,13,1,5df20c62,0.6508627424713472,Prioritaskan di sortir (pantau manual)
+RSI100204,Lampung,664.4,1.29,Reguler,Hujan,14,1,35238dc2,0.6501706435296366,Prioritaskan di sortir (pantau manual)
+RSI101537,Jakarta,422.7,2.09,Kargo,Hujan,11,1,73c7b189,0.6498001917770851,Prioritaskan di sortir (pantau manual)
+RSI100453,Medan,1230.4,2.27,Reguler,Cerah,11,0,74d27f04,0.6475550077522013,Tawarkan upgrade ke Express
+RSI101872,Jambi,761.1,5.96,Reguler,Cerah,14,0,b6053820,0.6468874159504646,Tawarkan upgrade ke Express
+RSI100211,Palembang,635.0,2.19,Reguler,Hujan,9,0,e3be9b32,0.6463537455048669,Prioritaskan di sortir (pantau manual)
+RSI100569,Jakarta,572.1,6.85,Reguler,Cerah,11,0,b06139f3,0.645060101380821,Prioritaskan di sortir (pantau manual)
+RSI100051,Jambi,351.1,8.21,Kargo,Hujan,16,1,12b3a7eb,0.6445526071754574,Prioritaskan di sortir (pantau manual)
+RSI102355,Lampung,368.9,5.01,Kargo,Hujan,15,0,41704d51,0.6435200693896529,Prioritaskan di sortir (pantau manual)
+RSI100024,Jakarta,1161.0,2.64,Reguler,Cerah,13,1,27e8818f,0.6432605501457271,Tawarkan upgrade ke Express
+RSI100066,Jakarta,610.4,3.42,Reguler,Hujan,11,1,376bba40,0.6430685196808699,Prioritaskan di sortir (pantau manual)
+RSI100636,Jakarta,593.6,6.3,Reguler,Cerah,14,1,0d04f8fc,0.6420629494250167,Prioritaskan di sortir (pantau manual)
+RSI101095,Medan,891.3,0.6,Reguler,Hujan,10,1,d676dfed,0.6419726344688149,Tawarkan upgrade ke Express
+RSI101563,Palembang,150.9,8.03,Reguler,Cerah,8,0,f77d803b,0.6418124524063339,Prioritaskan di sortir (pantau manual)
+RSI102496,Palembang,1096.7,1.59,Kargo,Cerah,12,1,093992a7,0.6410593434839972,Prioritaskan di sortir (pantau manual)
+RSI102806,Medan,977.9,2.8,Reguler,Cerah,17,0,bfdf5ae6,0.6404874016794974,Tawarkan upgrade ke Express
+RSI102914,Bengkulu,1382.0,1.0,Reguler,Cerah,13,1,faf4934a,0.638559176069868,Tawarkan upgrade ke Express
+RSI100422,Jambi,420.9,3.4,Kargo,Hujan,11,0,acd004eb,0.6366909633235764,Prioritaskan di sortir (pantau manual)
+RSI102836,Medan,412.7,10.34,Kargo,Cerah,17,1,c95fd4cf,0.6365296515173943,Prioritaskan di sortir (pantau manual)
+RSI102926,Padang,636.6,2.47,Reguler,Hujan,7,1,31bbece1,0.6358029261659517,Prioritaskan di sortir (pantau manual)
+RSI101378,Palembang,1448.2,2.13,Express,Badai,11,1,dda4766a,0.6357598565857423,Tunda/alihkan rute & kabari penerima
+RSI101146,Jakarta,500.7,3.33,Kargo,Cerah,21,1,5fe02d57,0.6351918713644613,Jadwalkan ulang ke batch pagi
+RSI101490,Jakarta,516.9,1.12,Kargo,Hujan,12,1,ca97d5ed,0.6332146842264581,Prioritaskan di sortir (pantau manual)
+RSI100597,Medan,1329.3,0.43,Reguler,Cerah,12,0,799484f3,0.6330217265302065,Tawarkan upgrade ke Express
+RSI101932,Padang,565.1,2.02,Reguler,Hujan,7,1,e557f095,0.6313814140197352,Prioritaskan di sortir (pantau manual)
+RSI100620,Padang,666.4,3.23,Reguler,Cerah,20,1,ec868a5e,0.6301358456733522,Jadwalkan ulang ke batch pagi
+RSI101766,Jakarta,531.0,2.11,Reguler,Hujan,8,1,807d39cf,0.6297595150162851,Prioritaskan di sortir (pantau manual)
+RSI101900,Bengkulu,779.7,3.07,Express,Badai,17,1,b3b8e0a9,0.6297406498163606,Tunda/alihkan rute & kabari penerima
+RSI100833,Medan,1098.4,1.63,Kargo,Cerah,7,0,63976aa5,0.6289175536698196,Prioritaskan di sortir (pantau manual)
+RSI101445,Bengkulu,552.3,1.47,Reguler,Hujan,12,1,1c9b0ed8,0.6288884526089964,Prioritaskan di sortir (pantau manual)
+RSI101680,Jakarta,972.5,2.06,Kargo,Cerah,17,1,7af20c50,0.6282880228482568,Prioritaskan di sortir (pantau manual)
+RSI102729,Lampung,1037.1,4.09,Reguler,Cerah,12,1,9af2d09c,0.6279332880789623,Tawarkan upgrade ke Express
+RSI101319,Palembang,692.4,0.48,Reguler,Hujan,12,0,b44f0fc0,0.6277560060483575,Prioritaskan di sortir (pantau manual)
+RSI102265,Palembang,1324.0,0.57,Reguler,Cerah,10,1,04480b5d,0.6274441623409959,Tawarkan upgrade ke Express
+RSI101390,Bengkulu,383.1,3.2,Reguler,Badai,11,1,f45ef1e7,0.6248334504423417,Tunda/alihkan rute & kabari penerima
+RSI101844,Medan,884.3,3.96,Express,Cerah,20,0,4d2d8c55,0.6241920555682766,Jadwalkan ulang ke batch pagi
+RSI102058,Jakarta,503.1,3.52,Reguler,Hujan,16,1,2969b46f,0.6236393566335106,Prioritaskan di sortir (pantau manual)
+RSI102075,Lampung,824.2,4.85,Reguler,Cerah,16,1,27b170a7,0.623516743283649,Tawarkan upgrade ke Express
+RSI101018,Medan,811.8,4.59,Express,Cerah,20,1,6c512520,0.6233889729427224,Jadwalkan ulang ke batch pagi
+RSI100356,Lampung,428.6,8.85,Reguler,Cerah,17,1,0cefc45f,0.6233643238702328,Prioritaskan di sortir (pantau manual)
+RSI102089,Jambi,723.9,1.19,Reguler,Hujan,16,1,39dd3f15,0.623123485595039,Tawarkan upgrade ke Express
+RSI100371,Palembang,783.7,6.24,Express,Hujan,18,1,f9e8f0d3,0.6225390266262705,Jadwalkan ulang ke batch pagi
+RSI101581,Palembang,1095.1,2.3,Kargo,Cerah,11,1,b8176a05,0.6214406143555141,Prioritaskan di sortir (pantau manual)
+RSI101723,Bengkulu,531.3,2.31,Reguler,Hujan,7,1,f24ebe83,0.6210725482653067,Prioritaskan di sortir (pantau manual)
+RSI100796,Lampung,289.6,3.06,Reguler,Badai,12,0,1e6bb8a9,0.6198160324838091,Tunda/alihkan rute & kabari penerima
+RSI101201,Jambi,607.5,1.22,Reguler,Hujan,7,0,54ee871f,0.6183879077888746,Prioritaskan di sortir (pantau manual)
+RSI101610,Palembang,703.8,0.55,Reguler,Hujan,7,0,17363a5e,0.6165953267637961,Tawarkan upgrade ke Express
+RSI101952,Jakarta,710.8,0.47,Reguler,Hujan,9,1,7eacaf3e,0.6165723885546026,Tawarkan upgrade ke Express
+RSI102557,Medan,1161.9,1.46,Express,Hujan,19,1,c90e1dbb,0.6162769548298155,Jadwalkan ulang ke batch pagi
+RSI102929,Lampung,1274.4,0.45,Reguler,Cerah,16,1,632dde8d,0.6153384949910705,Tawarkan upgrade ke Express
+RSI100206,Palembang,515.5,3.24,Reguler,Hujan,11,1,28b60dd3,0.6152232162538984,Prioritaskan di sortir (pantau manual)
+RSI100698,Medan,466.7,6.91,Reguler,Cerah,21,1,a1039b83,0.614972419512699,Jadwalkan ulang ke batch pagi
+RSI101259,Jakarta,1051.0,3.09,Reguler,Cerah,11,1,d8c73a85,0.6143140604636498,Tawarkan upgrade ke Express
+RSI101678,Padang,432.4,1.59,Reguler,Hujan,14,1,39bca323,0.6138774911439305,Prioritaskan di sortir (pantau manual)
+RSI100828,Jakarta,512.6,2.92,Reguler,Hujan,12,1,9d6083bd,0.6136960782850519,Prioritaskan di sortir (pantau manual)
+RSI100535,Jambi,360.0,4.11,Reguler,Badai,7,1,d0068c61,0.6125078419305836,Tunda/alihkan rute & kabari penerima
+RSI101873,Medan,581.7,6.04,Reguler,Cerah,7,0,5c7b20d4,0.6112731048799896,Prioritaskan di sortir (pantau manual)
+RSI100351,Bengkulu,997.7,4.58,Reguler,Cerah,10,0,0ddbcd7a,0.6112626614428075,Tawarkan upgrade ke Express
+RSI100837,Jakarta,1127.2,2.5149999999999997,Reguler,Cerah,11,0,1cf0adb3,0.6102006927852177,Tawarkan upgrade ke Express
+RSI100954,Jambi,230.7,3.7,Reguler,Badai,8,1,5a5ab790,0.6093839160226798,Tunda/alihkan rute & kabari penerima
+RSI101663,Medan,893.1,6.18,Express,Badai,14,1,2f34cc85,0.6092045599169217,Tunda/alihkan rute & kabari penerima
+RSI100015,Padang,824.0,5.08,Reguler,Cerah,13,1,2429bff0,0.6091736724614376,Tawarkan upgrade ke Express
+RSI101411,Bengkulu,495.1,3.55,Reguler,Cerah,19,0,c0bd0ecd,0.6082274842809887,Jadwalkan ulang ke batch pagi
+RSI100527,Jambi,771.2,3.39,Kargo,Cerah,14,1,ac91efe6,0.6068049405605774,Prioritaskan di sortir (pantau manual)
+RSI102267,Bengkulu,200.6,7.36,Reguler,Cerah,7,0,18459cf3,0.60608021468002,Prioritaskan di sortir (pantau manual)
+RSI101136,Palembang,491.8,3.78,Kargo,Cerah,18,1,6ded5204,0.605532067439982,Jadwalkan ulang ke batch pagi
+RSI101476,Lampung,455.2,1.45,Reguler,Hujan,15,1,600c14f9,0.6054750594826911,Prioritaskan di sortir (pantau manual)
+RSI102214,Jambi,457.5,2.43,Reguler,Hujan,10,1,f2452a6a,0.6054160809666737,Prioritaskan di sortir (pantau manual)
+RSI100005,Lampung,602.5,0.91,Reguler,Hujan,9,1,bedb596a,0.6043038589864118,Prioritaskan di sortir (pantau manual)
+RSI100333,Medan,858.6,2.39,Kargo,Cerah,15,1,39bdd2dd,0.6037910907664087,Prioritaskan di sortir (pantau manual)
+RSI101922,Lampung,1206.2,5.6,Express,Hujan,13,0,64d38b43,0.6020359600044523,Prioritaskan di sortir (pantau manual)
+RSI100785,Jambi,909.4,4.87,Express,Cerah,19,1,c134f1ea,0.6014682453834088,Jadwalkan ulang ke batch pagi
+RSI100061,Medan,504.9,5.98,Reguler,Cerah,13,1,c0827e93,0.6002016043970508,Prioritaskan di sortir (pantau manual)

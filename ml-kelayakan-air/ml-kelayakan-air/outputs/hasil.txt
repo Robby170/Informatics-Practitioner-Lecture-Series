@@ -1,0 +1,16 @@
+[1] Data: 1500 baris, 9 kolom
+    Nilai hilang per kolom:
+ph          86
+kloramin    98
+sulfat      94
+[2] Split: train=1200, test=300
+
+[3] Evaluasi model (data uji):
+    Logistic Regression            Acc=0.640  F1=0.630  (train Acc=0.707)
+    Decision Tree (tanpa batas)    Acc=0.653  F1=0.641  (train Acc=1.000)
+    Random Forest                  Acc=0.710  F1=0.705  (train Acc=1.000)
+    Model terbaik: Random Forest
+
+[4] Overfitting: kedalaman optimal=4 (test Acc=0.723); kedalaman 20 -> train=1.000, test=0.653
+
+[5] Klasterisasi K-Means: k terbaik=2 (silhouette=0.087)

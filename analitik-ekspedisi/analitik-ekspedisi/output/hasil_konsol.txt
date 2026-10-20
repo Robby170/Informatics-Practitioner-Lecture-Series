@@ -1,0 +1,33 @@
+[PERSIAPAN DATA] {'baris_awal': 3060, 'duplikat_dibuang': 60, 'jarak_negatif_diperbaiki': 40, 'berat_hilang_diimputasi': 104, 'baris_bersih': 3000}
+
+[DESCRIPTIVE] Tingkat keterlambatan keseluruhan: 50.7%
+layanan
+Express    29.3%
+Reguler    57.6%
+Kargo      61.5%
+
+[DIAGNOSTIC] Telat berdasarkan cuaca x layanan:
+layanan Express  Kargo Reguler
+cuaca                         
+Badai     58.1%  93.0%   82.6%
+Cerah     21.6%  52.1%   49.1%
+Hujan     37.2%  71.4%   66.7%
+Kirim sebelum 18.00: 45.2% | setelah 18.00: 65.5%
+
+[PREDICTIVE] ROC-AUC: 0.750
+              precision    recall  f1-score   support
+
+           0      0.683     0.676     0.679       370
+           1      0.688     0.695     0.691       380
+
+    accuracy                          0.685       750
+   macro avg      0.685     0.685     0.685       750
+weighted avg      0.685     0.685     0.685       750
+
+
+[PRESCRIPTIVE] 277 paket berisiko tinggi (prob >= 60%). Ringkasan tindakan:
+rekomendasi
+Tawarkan upgrade ke Express               79
+Prioritaskan di sortir (pantau manual)    77
+Jadwalkan ulang ke batch pagi             69
+Tunda/alihkan rute & kabari penerima      52

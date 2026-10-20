@@ -1,0 +1,85 @@
+:root {
+  --kertas: #f6f4ee;
+  --permukaan: #ffffff;
+  --tinta: #1b2a2f;
+  --samar: #4d5f65;
+  --laut: #0f5c63;
+  --laut-muda: #d9ece9;
+  --lama: #b4410a;
+  --lama-muda: #fbe3d3;
+  --garis: #cfd8d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --kertas: #12201f;
+    --permukaan: #1a2d2c;
+    --tinta: #eef3f1;
+    --samar: #aebfbc;
+    --laut: #6fd0c7;
+    --laut-muda: #24403f;
+    --lama: #ffa36b;
+    --lama-muda: #4a2e1c;
+    --garis: #3a5351;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 112.5%; }
+body {
+  margin: 0; background: var(--kertas); color: var(--tinta);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif; line-height: 1.55;
+}
+h1, h2 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; }
+h1 { font-size: 2rem; margin: .2rem 0 .5rem; }
+h2 { font-size: 1.15rem; margin: 0 0 .5rem; }
+.kepala, main, .kaki { max-width: 52rem; margin: 0 auto; padding: 0 1rem; }
+.kepala { padding-top: 2rem; padding-bottom: 1rem; }
+.lokasi { color: var(--laut); font-weight: 600; margin: 0; }
+.intro, .petunjuk { color: var(--samar); margin: 0 0 .75rem; max-width: 60ch; }
+.lompat { position: absolute; left: -999px; background: var(--laut); color: var(--kertas); padding: .5rem 1rem; }
+.lompat:focus { left: 1rem; top: 1rem; z-index: 9; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+.ringkas { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: .75rem; margin-bottom: 1rem; }
+.kpi { background: var(--permukaan); border-left: 6px solid var(--laut); padding: .75rem 1rem; display: flex; flex-direction: column; }
+.kpi-nilai { font-family: Georgia, serif; font-size: 1.9rem; font-weight: 700; }
+.kpi-label { color: var(--samar); font-size: .9rem; }
+
+.filter { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .75rem; margin-bottom: 1rem; }
+.filter h2 { width: 100%; margin: 0; }
+select, button {
+  font: inherit; color: var(--tinta); background: var(--permukaan);
+  border: 2px solid var(--garis); border-radius: 6px; padding: .45rem .7rem; min-height: 44px;
+}
+button { cursor: pointer; }
+:focus-visible { outline: 3px solid var(--lama); outline-offset: 2px; }
+
+.panel { background: var(--permukaan); padding: 1rem 1.1rem; margin-bottom: 1rem; border-radius: 6px; }
+
+.bar-daftar { display: grid; gap: .5rem; }
+.bar {
+  display: grid; grid-template-columns: 6.5rem 1fr 7rem; align-items: center; gap: .6rem; width: 100%;
+  text-align: left; border: 2px solid transparent; background: transparent; padding: .3rem .4rem;
+}
+.bar[aria-pressed="true"] { border-color: var(--laut); background: var(--laut-muda); }
+.jalur { background: var(--laut-muda); height: 1.3rem; border-radius: 3px; overflow: hidden; }
+.isi { display: block; height: 100%; background: var(--laut); }
+.bar.lama .isi { background: repeating-linear-gradient(45deg, var(--lama), var(--lama) 6px, transparent 6px, transparent 9px); background-color: var(--lama); }
+.angka { font-variant-numeric: tabular-nums; text-align: right; font-weight: 600; }
+.bar.lama .angka { color: var(--lama); }
+
+svg text { fill: var(--samar); font-size: 11px; font-family: inherit; }
+.g-garis { stroke: var(--laut); stroke-width: 3; fill: none; }
+.g-titik { fill: var(--permukaan); stroke: var(--laut); stroke-width: 3; }
+.g-kisi { stroke: var(--garis); stroke-width: 1; }
+
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--garis); }
+.catatan { background: var(--lama-muda); padding: .6rem .8rem; border-radius: 6px; margin: .5rem 0; }
+
+#sus fieldset { border: 0; border-bottom: 1px solid var(--garis); margin: 0; padding: .6rem 0; }
+#sus legend { padding: 0; font-weight: 600; max-width: 60ch; }
+#sus label { margin-right: .9rem; white-space: nowrap; }
+#sus-hasil { font-weight: 600; margin-top: .75rem; }
+.kaki { padding-bottom: 2rem; color: var(--samar); font-size: .85rem; }
+@media (max-width: 34rem) { .bar { grid-template-columns: 5rem 1fr 6rem; } h1 { font-size: 1.6rem; } }
+@media (prefers-reduced-motion: no-preference) { .isi { transition: width .3s; } }

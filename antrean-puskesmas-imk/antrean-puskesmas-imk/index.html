@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dasbor Antrean Puskesmas Sawah Lebar</title>
+  <meta name="description" content="Studi kasus IMK: dasbor antrean puskesmas yang ramah kognitif, inklusif, dan etis.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="lompat" href="#utama">Lewati ke konten utama</a>
+
+  <header class="kepala">
+    <p class="lokasi">Puskesmas Sawah Lebar, Kota Bengkulu</p>
+    <h1>Kapan waktu terbaik berobat?</h1>
+    <p class="intro">Data antrean 6 hari terakhir (simulasi). Pilih poli dan hari untuk melihat waktu tunggu.</p>
+  </header>
+
+  <main id="utama">
+    <!-- Tahap 1: Overview first -->
+    <section aria-labelledby="h-ringkas" class="ringkas">
+      <h2 id="h-ringkas" class="sr-only">Ringkasan</h2>
+      <div class="kpi"><span class="kpi-nilai" id="kpi-pasien">-</span><span class="kpi-label">pasien terlayani</span></div>
+      <div class="kpi"><span class="kpi-nilai" id="kpi-tunggu">-</span><span class="kpi-label">rata-rata menit menunggu</span></div>
+      <div class="kpi"><span class="kpi-nilai" id="kpi-sibuk">-</span><span class="kpi-label">poli paling lama menunggu</span></div>
+    </section>
+
+    <!-- Tahap 2: Zoom and filter -->
+    <section aria-labelledby="h-filter" class="filter">
+      <h2 id="h-filter">Saring data</h2>
+      <label for="f-poli">Poli</label>
+      <select id="f-poli"></select>
+      <label for="f-hari">Hari</label>
+      <select id="f-hari"></select>
+      <button type="button" id="reset">Tampilkan semua</button>
+    </section>
+
+    <section aria-labelledby="h-bar" class="panel">
+      <h2 id="h-bar">Waktu tunggu tiap poli</h2>
+      <p class="petunjuk">Pilih satu poli untuk melihat rinciannya.</p>
+      <div id="bar" class="bar-daftar"></div>
+    </section>
+
+    <section aria-labelledby="h-garis" class="panel">
+      <h2 id="h-garis">Waktu tunggu menurut jam</h2>
+      <p id="garis-ket" class="petunjuk"></p>
+      <div id="garis"></div>
+    </section>
+
+    <!-- Tahap 3: Details on demand -->
+    <section aria-labelledby="h-detail" class="panel" aria-live="polite">
+      <h2 id="h-detail">Rincian</h2>
+      <div id="detail"></div>
+    </section>
+
+    <!-- Evaluasi usability -->
+    <section aria-labelledby="h-sus" class="panel">
+      <h2 id="h-sus">Nilai kemudahan dasbor ini (SUS)</h2>
+      <p class="petunjuk">Jawab 10 pernyataan. 1 = sangat tidak setuju, 5 = sangat setuju. Tidak ada data yang dikirim ke mana pun.</p>
+      <form id="sus"></form>
+      <p id="sus-hasil" role="status"></p>
+    </section>
+  </main>
+
+  <footer class="kaki">
+    <p>Studi kasus mata kuliah Interaksi Manusia Komputer, Sesi 5. Data fiktif untuk pembelajaran.</p>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
